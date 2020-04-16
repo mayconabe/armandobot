@@ -1,2 +1,0 @@
-# armandobot
-Discord bot Armando
